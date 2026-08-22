@@ -1,0 +1,10 @@
+time complexity : 
+Q1. Single Loop	O(n) 
+
+Q2. Two Loops	O(n)	
+
+Q3. Nested Loop	O(n²)	
+
+Q4. Logarithmic Loop	O(log n)	
+
+Q5. O(n²)   ( because outer loop running n number of times )
