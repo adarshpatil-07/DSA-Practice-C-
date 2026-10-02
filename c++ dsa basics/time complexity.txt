@@ -9,3 +9,5 @@ Q4. Logarithmic Loop	O(log n)
 
 Q5. O(n²)   ( because outer loop running n number of times )
 
+
+
