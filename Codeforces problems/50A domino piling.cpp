@@ -2,7 +2,7 @@
 using namespace std ;
 
 int main() {
-    int M ; // height 
+    int M ; // height  
     int N ; // base 
     cin >> M >> N ;
 
